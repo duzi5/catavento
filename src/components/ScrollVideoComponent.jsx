@@ -15,7 +15,7 @@ export const Divy = styled.div`
     width: 100vw;
     height: 100vh;
     background-color: slateblue;
-    animation: normal infinite 4s ${rotate2};
+    animation: linear infinite 2s ${rotate2};
 `
 
 
